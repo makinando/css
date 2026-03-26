@@ -1,0 +1,7 @@
+{
+  "markdown-pdf.styles": ["./estilo-arial.css"],
+  "markdown-pdf.displayHeaderFooter": false
+}
+
+Cada vez que quiera un estilo hay que cambiarlo en la linea 2
+Este fichero se incluye en la una carpeta ".vscode" que hay que incluir en la carpeta correspondiente
